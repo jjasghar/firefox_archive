@@ -1,0 +1,29 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Xcode
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcodeproj/xcshareddata/
+*.xcworkspace/*
+!*.xcworkspace/contents.xcworkspacedata
+build/
+DerivedData/
+
+# Icons (if you add them)
+*.png
+*.ico
+*.icns
+
+# Node modules (if you add any build tools)
+node_modules/
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+

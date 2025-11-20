@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "Archive.ph Link Opener",
+  "version": "1.0.0",
+  "description": "Right-click on links to open them via archive.ph",
+  "permissions": [
+    "contextMenus",
+    "tabs"
+  ],
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "icons": {
+    "128": "icons/avatar_90745502f381_128.pnj"
+  }
+}
+
